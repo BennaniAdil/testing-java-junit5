@@ -91,8 +91,8 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.22.0</version>
                 <configuration>
-                    <groups>model, controller</groups>
-                    <excludedGroups>repeated</excludedGroups>
+<!--                    <groups>model, controller</groups>
+                    <excludedGroups>repeated</excludedGroups>-->
                 </configuration>
             </plugin>
             <plugin>
